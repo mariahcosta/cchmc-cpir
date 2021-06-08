@@ -1,12 +1,11 @@
 % Authors: Mariah Costa, Peter Niedbalski
-% 4/03/2021
+% Last edited: 4/18/2021
 
 % Version of code used in MC ISMRM 2021 project
-
 % This code prompts user for list and raw files for RADIAL KOOSHBALL data,
 % subject health status, acqusition style, and noise threshold factor.
 
-% Computes key images via both s2/s1 and SE/SO methods, extracts attenuation
+% Computes key images via both linear and interleaved methods, extracts attenuation
 % maps, corrected images, C1, C1 uncertainty, and angles
 
 % Common abbreviations found in variables:
